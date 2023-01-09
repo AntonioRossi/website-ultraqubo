@@ -1,12 +1,13 @@
 ---
 title: "Terms"
 description: "Term of use of the website"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: ''
+omit_header_text: true
 menu:
   main:
-    weight: 1
+    weight: 3
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+<!-- {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}} -->
 
 ##### Purpose of website and software
 The website and software are provided for informational purposes only and are not intended for trading purposes. The website and software should not be relied upon as a sole source of information for making trading decisions.
