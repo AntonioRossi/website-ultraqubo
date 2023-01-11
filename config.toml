@@ -2,7 +2,7 @@ title = "Ultraqubo HFT Software"
 baseURL = 'https://ultraqubo.com/'
 languageCode = 'en-us'
 theme = 'ananke'
-resourceDir = "../website-ultraqubo-resources"
+# resourceDir = "../website-ultraqubo-resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
