@@ -11,6 +11,8 @@ menu:
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Thank you for your interest in our high frequency trading software. We are pleased to offer this cutting-edge technology to select companies in the financial industry. Our software is exclusively available to hedge funds, investment banks, proprietary trading firms, market makers, and quantitative trading firms that specialize in using advanced algorithms for rapid trade execution. If your company falls within one of these categories, please fill out the contact form and we will be in touch shortly to discuss how our software can benefit your trading operations.
+
+<!-- Check out [Formspree](https://formspree.io/) for a simple, free form service.  -->
 
 {{< form-contact action="https://example.com"  >}}
