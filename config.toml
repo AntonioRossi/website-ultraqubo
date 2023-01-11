@@ -1,5 +1,5 @@
 title = "Ultraqubo HFT Software"
-baseURL = 'http://example.org/'
+baseURL = 'https://ultraqubo.com/'
 languageCode = 'en-us'
 theme = 'ananke'
 resourceDir = "../website-ultraqubo-resources"
